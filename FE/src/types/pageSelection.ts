@@ -1,0 +1,1 @@
+export type PageSelection = "HOME"|"LOGIN"|"SIGNUP"|"PROFILE";

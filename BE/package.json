@@ -1,0 +1,22 @@
+{
+  "name": "gettronics_be",
+  "version": "1.0.0",
+  "description": "Backend for ecommerce full stack",
+  "license": "ISC",
+  "author": "Neel2k5",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.18.1",
+    "uuid": "^13.0.0"
+  }
+}
